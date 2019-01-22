@@ -1,0 +1,6 @@
+hidden = false
+name = "Loiter Fix"
+description = "Prevents loitering planes from attacking after the ability has ended.\r\n(Only OKW Sector Assault is implemented at the moment.)"
+dependencies = 
+{
+}

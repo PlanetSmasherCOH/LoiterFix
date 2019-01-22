@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\LoiterFix\LoiterFix.xml</FileName>
+			<FileHash>e8127ac08bfbdd2bf39897d2560c8673</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\LoiterFix\instances\ebps\races\german\vehicles\stuka_aircraft\stuka_ground_attack_mp.xml</FileName>
+			<FileHash>a4fdfe3ba415623407834eb5801ba758</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\LoiterFix\instances\ebps\races\west_german\vehicles\stuka_aircraft\tactical_bomber_sector_assault.xml</FileName>
+			<FileHash>44ad202792e9c36c72b60db226d4bd04</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\LoiterFix\locale\english\english.ucs</FileName>
+			<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\LoiterFix\LoiterFix Intermediate Cache\Intermediate Files\info\b016ce26e3f9442c9af132a65ced7c04.info</FileName>
+			<FileHash>1c97853d89ab9330de1aedc975adbad9</FileHash>
+		</BurnInfo>
+	</BurnInfo>
+	<BurnInfoExtendedInfo />
+</BurnInfoRoot>
